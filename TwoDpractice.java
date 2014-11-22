@@ -19,7 +19,7 @@ public class TwoDpractice {
 			for (int column =0; column<twoDArray.length; column++){
 				System.out.print(twoDArray[row][column]);
 			}
-			System.out.println();
+		System.out.println();
 		}
 	}
 }
