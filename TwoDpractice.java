@@ -12,7 +12,7 @@ public class TwoDpractice {
 	
 		for (int row=0; row<twoDArray.length;row++) {
 			for (int column =0; column<twoDArray.length; column++){
-					twoDArray[row][column]= (row + column) %2;
+				twoDArray[row][column]= (row + column) %2;
 			}
 		}
 		for (int row=0; row<twoDArray.length;row++) {
